@@ -1,0 +1,31 @@
+body{
+	background-image:url('https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526fee2036a67f07f1.gif');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+
+}
+.wrapper{
+	width: 430px;
+	padding: 80px 40px;
+	border: 2px solid rgba(6, 35, 57, 0.5);
+}
+h1{
+	color: white;
+	text-align: center;
+	font-family: 'Times New Roman', serif;
+}
+label{
+	color: white;
+}
+.container{
+	align-self: center;
+	width:70%;
+	box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.8);
+	margin: auto;
+	padding: 15px;
+	border: 5px solid gray;
+}
+p{
+	text-align: center;
+}
